@@ -1,0 +1,19 @@
+{
+    "scale_factor": 1.1,
+    "min_neighbors": 5,
+    "min_face_size": [30, 30],
+    "dnn_confidence_threshold": 0.6,
+    "use_dnn": false,
+    "predict_age": false,
+    "predict_gender": false,
+    "detect_eyes": false,
+    "detect_smile": false,
+    "blur_faces": false,
+    "show_fps": true,
+    "camera_id": 0,
+    "output_dir": "output",
+    "log_file": "detection_log.csv",
+    "blur_strength": 99,
+    "bbox_thickness": 2,
+    "font_scale": 0.55
+}
